@@ -1,0 +1,44 @@
+.right {
+    position: absolute;
+    right: 10%;
+    font-size: 120px !important;
+    top: 20%
+}
+
+.left {
+    position: absolute;
+    left: 10%;
+    font-size: 120px !important;
+    bottom: 10%
+}
+
+h1 {
+    text-align: center;
+    font-size: 70pt !important;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.winter {
+    background-color: #ddfaff;
+
+}
+
+.winter i {
+    color: navy;
+}
+
+.summer {
+    background-color: cornsilk;
+
+}
+
+.summer i {
+    color: orange;
+}
